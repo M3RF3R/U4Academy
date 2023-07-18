@@ -4,7 +4,7 @@
 
 <br>
 
-[Main window](/StudentApp/Release-Notes-About-this-release/New-features-and-enhancements/Main-window)
+[Main window](/StudentApp/Release-Notes-About-this-release/New-features-and-enhancements/Main-window.md)
 
 [Manage Student window](/StudentApp/Release-Notes-About-this-release/New-features-and-enhancements/Manage-Student-window)
 
