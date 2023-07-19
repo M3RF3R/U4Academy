@@ -17,9 +17,9 @@ The user interface of the **Create job offer** window, has the following element
 
 ---
 
-3. **List job offers** button – select to go to the [**Main** window](Window-elements/Main-window.md).
-4. **Create job offer** button – when blue, it indicates that the window is active. Follow the [link](How-to/How-to-create-a-job-offer.md) for more information on how to create a job offer.
-5. **Statistics** button – select to go to the [**Statistics** window](Window-elements/Statistics-window.md).
+3. **List job offers** button – select to go to the [**Main** window](Main-window.md).
+4. **Create job offer** button – when blue, it indicates that the window is active. Follow the [link](../How-to/How-to-create-a-job-offer.md) for more information on how to create a job offer.
+5. **Statistics** button – select to go to the [**Statistics** window](Statistics-window.md).
 
 #### <span style="color:#3C8000">Job Form</span>
 
