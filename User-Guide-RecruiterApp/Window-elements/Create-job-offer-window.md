@@ -11,7 +11,7 @@ The user interface of the **Create job offer** window, has the following element
 ---
 
 1. **Dark/Light mode** button – toggle to switch between dark and light mode.
-2. **Sign in/out** button – select to [**Sign in and out**](How-to/How-to-authenticate.md) of the App.
+2. **Sign in/out** button – select to [**Sign in and out**](../How-to/How-to-authenticate.md) of the App.
 
 #### <span style="color:#3C8000">Navigation bar</span>
 
