@@ -7,7 +7,7 @@ This is Mitochondria's team documentation. This documentation was developed by m
 
 1. Student App documentation:
 
-- [Release Notes](/StudentApp/Release-Notes-About-this-release.md)
+- [Release Notes](/StudentApp/README.md)
 
 2. Recruiter App documentation:
 

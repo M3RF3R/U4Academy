@@ -1,19 +1,15 @@
-# Introduction
+# <span style="color:#70ad47">About this release</span>
 
-This is Mitochondria's team documentation. This documentation was developed by me for a sandbox project for the U4 Academy April 23 edition.  
-![mitochondria](/.attachments/mitochondria.png)
+These release Notes contain important information about Unit4 Mitochondria Student App 123.0.0 release.
 
-# Content:
+---
 
-1. Student App documentation:
+<br>
 
-- [Release Notes](/StudentApp/Release-Notes-About-this-release.md)
-
-2. Recruiter App documentation:
-
-- [User Guide](/RecruiterApp/User-Guide-RecruiterApp.md)
-- [Release Notes](/RecruiterApp/Release-Notes-RecruiterApp.md)
-  <br>
-  <br>
-
-🍄 Academy April 2023 edition.v
+<span style="color:#88AEC9">[New features and enhancements](/StudentApp/Release-Notes-About-this-release/New-features-and-enhancements.md)</span><br>
+<span style="color:#88AEC9">[API updates](/StudentApp/Release-Notes-About-this-release/API-updates.md)</span><br>
+<span style="color:#88AEC9">[Breaking changes](/StudentApp/Breaking-changes)</span><br>
+<span style="color:#88AEC9">[System parameters](/StudentApp/Release-Notes-About-this-release/System-parameters)</span><br>
+<span style="color:#88AEC9">[Fixes](/StudentApp/Release-Notes-About-this-release/Fixes)</span><br>
+<span style="color:#88AEC9">[Known issues](/StudentApp/Release-Notes-About-this-release/Known-issues)</span><br>
+<span style="color:#88AEC9">[Deprecated functionality](/StudentApp/Release-Notes-About-this-release/Deprecated-functionality)</span><br>
