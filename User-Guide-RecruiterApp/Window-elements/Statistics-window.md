@@ -17,8 +17,8 @@ The user interface of the **Statistics** window, has the following elements:
 
 ---
 
-3. **List job offers** button – select to go to the [**Main** window](/Main-window.md).
-4. **Create job offer** button – select to go to the [**Create job offer** window](Create-Job-Offer-window.md).
+3. **List job offers** button – select to go to the [**Main** window](Main-window.md).
+4. **Create job offer** button – select to go to the [**Create job offer** window](Create-job-offer-window.md).
 5. **Statistics** button – when blue, it indicates that the window is active. Follow the [link](../How-to/How-to-see-and-read-the-statistics-funtionality.md) for more information on how to see and read the statistics functionality.
 
 #### <span style="color:#3C8000">Statistics functionality</span>
