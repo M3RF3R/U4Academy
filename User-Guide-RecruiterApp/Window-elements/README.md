@@ -12,13 +12,13 @@ This section offers you an overview of the windows in the RecruiterApp. You can 
 
 [Main window](Main-window.md) <br>
 
-[Create job offer window](Create-Job-Offer-window.md)<br>
+[Create job offer window](Create-job-offer-window.md)<br>
 
 [Manage job offer window](Manage-job-offer-window.md)<br>
 
-[Recruit window](/RecruiterApp/User-Guide-RecruiterApp/Window-elements/Recruit-window.md)<br>
+[Recruit window](Recruit-window.md)<br>
 
-[Statistics window](/RecruiterApp/User-Guide-RecruiterApp/Window-elements/Statistics-window.md)<br>
+[Statistics window](Statistics-window.md)<br>
 
 <br>
 <hr style="height:8px;background-color:#3C8000">
