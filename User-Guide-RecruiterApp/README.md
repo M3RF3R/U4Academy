@@ -1,3 +1,3 @@
-![banner](/attachments/Recruiterapp.png)
+![banner](attachments/Recruiterapp.png)
 
 [[_TOSP_]]
