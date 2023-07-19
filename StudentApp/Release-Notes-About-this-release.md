@@ -7,7 +7,7 @@ These release Notes contain important information about Unit4 Mitochondria Stude
 <br>
 
 <span style="color:#88AEC9">[New features and enhancements](/StudentApp/Release-Notes-About-this-release/New-features-and-enhancements.md)</span><br>
-<span style="color:#88AEC9">[API updates](StudentApp/Release-Notes-About-this-release/API-updates.md)</span><br>
+<span style="color:#88AEC9">[API updates](StudentApp/Release-Notes-About-this-release/API-updates)</span><br>
 <span style="color:#88AEC9">[Breaking changes](/StudentApp/Release-Notes-About-this-release/Breaking-changes)</span><br>
 <span style="color:#88AEC9">[System parameters](/StudentApp/Release-Notes-About-this-release/System-parameters)</span><br>
 <span style="color:#88AEC9">[Fixes](/StudentApp/Release-Notes-About-this-release/Fixes)</span><br>
