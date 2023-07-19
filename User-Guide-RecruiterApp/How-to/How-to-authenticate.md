@@ -1,4 +1,4 @@
-![banner](/.attachments/peque.png)
+![banner](../../attachments/peque.png)
 
 # <span style="color:#3C8000">How to authenticate</span>
 
