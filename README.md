@@ -11,8 +11,8 @@ This is Mitochondria's team documentation. This documentation was developed by m
 
 2. Recruiter App documentation:
 
-- [User Guide](/RecruiterApp/User-Guide-RecruiterApp.md)
-- [Release Notes](/RecruiterApp/Release-Notes-RecruiterApp.md)
+- [User Guide](User-Guide-RecruiterApp/README.md)
+- [Release Notes](Release-Notes-RecruiterApp/README.md)
   <br>
   <br>
 
