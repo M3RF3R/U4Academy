@@ -7,8 +7,6 @@
 
 &nbsp;&nbsp;<font size="2"> <i> <b>Benefit:</b> Improved student profile with new fields available organised in sections </i> </font>
 
-<br>
-
 <dl>
 <li> General information:</li>
     <dd>- <i> First name </i> </dd>
