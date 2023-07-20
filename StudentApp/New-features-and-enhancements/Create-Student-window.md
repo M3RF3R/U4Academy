@@ -5,13 +5,15 @@
 <summary><span style="color:#88AEC9"><b>New sections and fields in the Create student (SA02) window</b></span></summary>
 <br>
 
-&nbsp;&nbsp;<font size="2"><b>Benefit:</b> Improved student profile with new fields available organised in sections </font> <br>
+&nbsp;&nbsp;<font size="2"> <i> <b>Benefit:</b> Improved student profile with new fields available organised in sections </i> </font>
+
+<br>
 
 <dl>
 <li> General information:</li>
     <dd>- <i> First name </i> </dd>
     <dd>- <i> Last name </i> </dd>
-    <dd>- <i> Date of birth </dd>
+    <dd>- <i> Date of birth </i> </dd>
 <li>Contact Details:</li>
     <dd>- <i> Email </i> </dd>
     <dd>- <i> Phone </i> </dd>
