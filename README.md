@@ -1,7 +1,6 @@
 # Introduction
 
-This is Mitochondria's team documentation. This documentation was developed by me for a sandbox project for the U4 Academy April 23 edition.  
-![mitochondria](/.attachments/mitochondria.png)
+This is Mitochondria's team documentation. This documentation was developed by me for a sandbox project for the U4 Academy April 23 edition.
 
 # Content:
 
@@ -9,11 +8,11 @@ This is Mitochondria's team documentation. This documentation was developed by m
 
 - [Release Notes](/StudentApp/README.md)
 
-2. Recruiter App documentation:
+2. RecruiterApp documentation:
 
 - [User Guide](User-Guide-RecruiterApp/README.md)
 - [Release Notes](Release-Notes-RecruiterApp/README.md)
   <br>
   <br>
 
-🍄 Academy April 2023 edition.v
+🍄 U4 Academy April 2023 edition.
