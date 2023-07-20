@@ -31,7 +31,7 @@
 <summary><span style="color:#88AEC9"><b>New alert system for blank mandatory fields</b></span></summary>
 <br>
 
-&nbsp;&nbsp;<font size="2">_**Benefit**: The user's experience will be more fluid when creating a new student._</font>
+&nbsp;&nbsp;<font size="2"> <i> <b> Benefit </b>: The user's experience will be more fluid when creating a new student.</i> </font>
 
 &nbsp;&nbsp;Before, when you left mandatory fields blank, error messages displayed one by one. Now, if you leave more than one mandatory field blank, error messages display at the same time.
 
@@ -42,8 +42,8 @@
 <summary><span style="color:#88AEC9"><b>New look for the Create student button</b></span></summary>
 <br>
 
-&nbsp;&nbsp;<font size="2">_**Benefit**: The **Create student** button is now more visible and intuitive._</font>
+&nbsp;&nbsp;<font size="2"> <i> <b> Benefit </b>: The **Create student** button is now more visible and intuitive.</i> </font>
 
-&nbsp;&nbsp;The **Create student** button's look, in the **Main (SA01)** window, has been updated to be more accessible.
+&nbsp;&nbsp;The <b> Create student </b> button's look, in the <b> Main (SA01) </b> window, has been updated to be more accessible.
 
 </details>
