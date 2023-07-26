@@ -1,4 +1,4 @@
-[User Guide](../README.md) > [How to](README.md)
+[U4Academy](../../README.md) > [User Guide index](../README.md) > [How to](README.md) > How to recruit candidates
 
 ![banner](../../attachments/peque.png)
 
