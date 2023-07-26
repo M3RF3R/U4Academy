@@ -1,3 +1,5 @@
+[U4Academy](../../README.md) > Release Notes Student App
+
 # <span style="color:#70ad47">About this release</span>
 
 These release Notes contain important information about Unit4 Mitochondria Student App 123.0.0 release.
