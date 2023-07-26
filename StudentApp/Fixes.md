@@ -1,4 +1,5 @@
-[Release Notes index](README.md) 
+[U4Academy](../README.md) > [Release Notes Student App](README.md) > Fixes
+
 
 ## <span style="color:#70ad47">Fixes</span> <br>
 
