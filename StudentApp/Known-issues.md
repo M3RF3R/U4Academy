@@ -1,3 +1,5 @@
+[Release Notes index](README.md) 
+
 ## <span style="color:#70ad47">Known issues</span> <br>
 
 ______
