@@ -1,4 +1,4 @@
-[User Guide](../README.md) > [window elements](README.md)
+[U4Academy](../../README.md) > [User Guide index](../README.md) > [window elements](README.md) > Main window
 
 ![banner](../../attachments/peque.png)
 
