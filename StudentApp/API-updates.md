@@ -1,4 +1,4 @@
-[U4Academy](/../README.md) > [Release Notes Student App](README.md) > API updates
+[U4Academy](../README.md) > [Release Notes Student App](README.md) > API updates
 
 ## <span style="color:#70ad47">API updates</span>  
 ___
