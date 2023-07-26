@@ -2,6 +2,8 @@
 
 # <span style="color:#3C8000">Create job offer window</span>
 
+[User Guide](../README.md) > [window elements](README.md)
+
 ![mainwindow](../../attachments/createjobwindowRA.png)
 
 The user interface of the **Create job offer** window, has the following elements:
