@@ -2,6 +2,8 @@
 
 # <span style="color:#3C8000">Statistics window</span>
 
+[User Guide](../README.md) > [window elements](README.md)
+
 ![mainwindow](../../attachments/statisticswindow.png)
 
 The user interface of the **Statistics** window, has the following elements:
