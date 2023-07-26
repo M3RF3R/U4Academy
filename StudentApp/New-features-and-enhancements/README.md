@@ -1,4 +1,4 @@
-[U4Academy](../README.md) > [Release Notes Student App](README.md) > New features and enhancements
+[U4Academy](../../README.md) > [Release Notes Student App](../README.md) > New features and enhancements
 
 ## <span style="color:#70ad47">New features and enhancements</span><br>
 
