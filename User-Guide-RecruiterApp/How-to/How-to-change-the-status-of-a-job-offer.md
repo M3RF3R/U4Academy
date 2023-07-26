@@ -1,4 +1,4 @@
-[User Guide](../README.md) > [How to](README.md)
+[U4Academy](../../README.md) > [User Guide index](../README.md) > [How to](README.md) > How to change the status of a job offer
 
 ![banner](../../attachments/peque.png)
 
