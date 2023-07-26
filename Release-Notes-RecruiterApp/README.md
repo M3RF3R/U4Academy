@@ -1,3 +1,5 @@
+[U4Academy](../README.md) > Release Notes RecruiterApp
+
 # <span style="color:#70ad47">About this release</span>
 
 These release Notes contain important information about Unit4's Mitochondria Recruiter App 123.0.0 release.
