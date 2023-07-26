@@ -1,3 +1,5 @@
+[Release Notes index](README.md) 
+
 ## <span style="color:#70ad47">API updates</span>  
 ___
 This section contains important information regarding API updates.
