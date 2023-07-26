@@ -1,3 +1,5 @@
+[Release Notes index](README.md) 
+
 ## <span style="color:#70ad47">Breaking Changes</span> <br>
 
 ______
