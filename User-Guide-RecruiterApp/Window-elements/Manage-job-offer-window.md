@@ -2,6 +2,8 @@
 
 # <span style="color:#3C8000">Manage job offer window</span>
 
+[User Guide](../README.md) > [window elements](README.md)
+
 ![mainwindow](../../attachments/RAmanagejoboffer.png)
 
 The user interface of the **Manage Job Offer** window, has the following elements:
