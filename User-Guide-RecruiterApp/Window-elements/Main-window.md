@@ -1,8 +1,8 @@
+[User Guide](../README.md) > [window elements](README.md)
+
 ![banner](../../attachments/peque.png)
 
 # <span style="color:#3C8000">Main window</span>
-
-[User Guide](../README.md) > [window elements](README.md)
 
 ![mainwindow](../../attachments/RAmainwindow5.png)
 
