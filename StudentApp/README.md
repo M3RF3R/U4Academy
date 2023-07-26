@@ -1,4 +1,4 @@
-[U4Academy](../../README.md) > Release Notes Student App
+[U4Academy](../README.md) > Release Notes Student App
 
 # <span style="color:#70ad47">About this release</span>
 
