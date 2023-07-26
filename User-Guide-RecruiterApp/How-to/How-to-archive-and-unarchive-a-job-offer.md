@@ -1,3 +1,5 @@
+[User Guide](../README.md) > [How to](README.md)
+
 ![banner](../../attachments/peque.png)
 
 # <span style="color:#3C8000">How to archive and unarchive a job offer</span>
