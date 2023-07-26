@@ -2,6 +2,8 @@
 
 # <span style="color:#3C8000">Main window</span>
 
+<span style="color:#3C8000">[User Guide](../README.md) > window elements</span>
+
 ![mainwindow](../../attachments/RAmainwindow5.png)
 
 The user interface of the **Main** window, has the following elements:
