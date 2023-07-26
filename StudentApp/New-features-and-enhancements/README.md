@@ -1,4 +1,4 @@
-[Release Notes index](README.md) 
+[../Release Notes index](README.md) 
 
 ## <span style="color:#70ad47">New features and enhancements</span><br>
 
