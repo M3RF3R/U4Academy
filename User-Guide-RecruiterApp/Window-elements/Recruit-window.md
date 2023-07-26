@@ -2,6 +2,8 @@
 
 # <span style="color:#3C8000">Recruit window</span>
 
+[User Guide](../README.md) > [window elements](README.md)
+
 ![recruitwindow](../../attachments/recruitwindowRA.png)
 
 The user interface of the **Recruit** window has the following elements:
