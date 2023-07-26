@@ -1,4 +1,5 @@
-[Release Notes](../README.md) > [New features and enhancements](README.md) 
+[U4Academy](../../README.md) > [Release Notes Student App](../README.md) > [New features and enhancements](README.md) > Main window
+
 
 ## <span style="color:#70ad47">Main window</span>
 
