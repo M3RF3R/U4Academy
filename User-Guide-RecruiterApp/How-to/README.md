@@ -1,4 +1,4 @@
-[User Guide index](../README.md) 
+[U4Academy](../../README.md) > [User Guide index](../README.md) > How to
 
 ![banner](../../attachments/blanco.png)
 
