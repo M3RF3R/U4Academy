@@ -2,7 +2,7 @@
 
 # <span style="color:#3C8000">Main window</span>
 
-<span style="color:#3C8000">[User Guide](../README.md) > window elements</span>
+<span style="color:#3C8000">[User Guide](../README.md) > [window elements](README.md)</span>
 
 ![mainwindow](../../attachments/RAmainwindow5.png)
 
