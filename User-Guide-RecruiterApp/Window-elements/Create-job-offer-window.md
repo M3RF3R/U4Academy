@@ -11,44 +11,55 @@ The user interface of the **Create job offer** window, has the following element
 #### <span style="color:#3C8000">Top bar</span>
 
 ---
-
-1. **Dark/Light mode** button – toggle to switch between dark and light mode.
-2. **Sign in/out** button – select to [**Sign in and out**](../How-to/How-to-authenticate.md) of the App.
+<ol>
+<li> <b>Dark/Light mode</b> button – toggle to switch between dark and light mode.</li>
+<li> <b>Sign in/out</b> button – select to <a href="../How-to/How-to-authenticate.md"><b>Sign in and out</b></a> of the App.</li>
+</ol>
 
 #### <span style="color:#3C8000">Navigation bar</span>
 
 ---
 
-3. **List job offers** button – select to go to the [**Main** window](Main-window.md).
-4. **Create job offer** button – when blue, it indicates that the window is active. Follow the [link](../How-to/How-to-create-a-job-offer.md) for more information on how to create a job offer.
-5. **Statistics** button – select to go to the [**Statistics** window](Statistics-window.md).
+<ol start="3">
+<li> <b>List job offers</b> button – select to go to the <a href="Main-window.md"><b>Main</b> window</a>.</li>
+<li> <b>Create job offer</b> button – when blue, it indicates that the window is active. Follow the <a href="../How-to/How-to-create-a-job-offer.md">link</a> for more information on how to create a job offer.</li>
+<li> <b>Statistics</b> button – select to go to the <a href="Statistics-window.md"><b>Statistics</b> window</a>.</li>
+</ol>
 
 #### <span style="color:#3C8000">Job Form</span>
 
 ---
 
-6. **General information** section – you must fill in the following information:
-7. _Job title_ field – write the job title.
-8. _Company name_ field – write the name of the company.
-9. _Job description_ field – write the job description in the word processor.
-10. _Country_ dropdown – choose your country.
-11. _City_ dropdown – choose your city.
-12. **Requirements** section – you must fill in the following information:
-13. _Courses_ dropdown – choose the required course or courses.
-14. _Languages_ dropdown – choose the required language or languages.
-15. _Work location_ check box – check one or both boxes for _Remote_ or _On site_ work location.
-16. **Job offer status** dropdown – choose between:
+<ol start="6">
+<li> <b>General information</b> section – you must fill in the following information:</li>
+<li> <i>Job title</i> field – write the job title.</li>
+<li> <i>Company name</i> field – write the name of the company.</li>
+<li> <i>Job description</i> field – write the job description in the word processor.</li>
+<li> <i>Country</i> dropdown – choose your country.</li>
+<li> <i>City</i> dropdown – choose your city.</li>
+<li> <b>Requirements</b> section – you must fill in the following information:</li>
+<li> <i>Courses</i> dropdown – choose the required course or courses.</li>
+<li> <i>Languages</i> dropdown – choose the required language or languages.</li>
+<li> <i>Work location</i> check box – check one or both boxes for _Remote_ or _On site_ work location.</li>
+<li> <b>Job offer status</b> dropdown – choose between:
+</ol>
 
-- _Open_ – the selection process is still open for candidates.
-- _In progress_ – no further applications are allowed.
-- _Closed_ – selection process is closed.
+<ul>
+<li> <i>Open</i> – the selection process is still open for candidates.</li>
+<li> <i>In progress</i> – no further applications are allowed.</li>
+<li> <i>Closed</i> – selection process is closed.</li>
+</ul>
+
 
 #### <span style="color:#3C8000">Bottom bar</span>
 
 ---
 
-17. **Submit job offer** button – select to submit the _Job_ form.
-18. **Clear form** button – select to delete the information in the _Job_ form.
+<ol start="17">
+<li> <b>Submit job offer</b> button – select to submit the <i>Job</i> form.</li>
+<li> <b>Clear form</b> button – select to delete the information in the <i>Job</i> form.</li>
+
+</ol>
 
 <br>
 <hr style="height:8px;background-color:#3C8000">
