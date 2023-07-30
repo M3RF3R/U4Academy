@@ -22,7 +22,7 @@ The user interface of the **Manage Job Offer** window, has the following element
 
 <ol start="3">
 <li> <b>List job offers</b>  button – select to go to the <a href="Main-window"><b>Main</b> window</a>.</li>
-<li> <b>Create job offer</b>  button – select to go to the [<b>Create job offer</b>  window](Create-job-offer-window.md).</li>
+<li> <b>Create job offer</b>  button – select to go to the <a href="Create-job-offer-window.md"><b>Create job offer</b> window</a>.</li>
 <li> <b>Manage job offer</b>  button – when blue, it indicates that the window is active. Follow the <a href="../How-to/How-to-manage-a-job-offer"><b>link</b></a> for more information on how to manage a job offer.</li>
 <li> <b>Statistics</b>  button – select to go to <a href="Statistics-window"><b>Statistics</b> window</a>.</li>
 </ol>
