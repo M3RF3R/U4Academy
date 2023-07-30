@@ -13,7 +13,7 @@ The user interface of the **Create job offer** window, has the following element
 ---
 <ol>
 <li> <b>Dark/Light mode</b> button – toggle to switch between dark and light mode.</li>
-<li> <b>Sign in/out</b> button – select to <a href="../How-to/How-to-authenticate.md"><b>Sign in and out</b></a> of the App.</li>
+<li> <b>Sign in/out</b> button – select to <a href="../How-to/How-to-authenticate"><b>Sign in and out</b></a> of the App.</li>
 </ol>
 
 #### <span style="color:#3C8000">Navigation bar</span>
@@ -21,9 +21,9 @@ The user interface of the **Create job offer** window, has the following element
 ---
 
 <ol start="3">
-<li> <b>List job offers</b> button – select to go to the <a href="Main-window.md"><b>Main</b> window</a>.</li>
-<li> <b>Create job offer</b> button – when blue, it indicates that the window is active. Follow the <a href="../How-to/How-to-create-a-job-offer.md">link</a> for more information on how to create a job offer.</li>
-<li> <b>Statistics</b> button – select to go to the <a href="Statistics-window.md"><b>Statistics</b> window</a>.</li>
+<li> <b>List job offers</b> button – select to go to the <a href="Main-window"><b>Main</b> window</a>.</li>
+<li> <b>Create job offer</b> button – when blue, it indicates that the window is active. Follow the <a href="../How-to/How-to-create-a-job-offer">link</a> for more information on how to create a job offer.</li>
+<li> <b>Statistics</b> button – select to go to the <a href="Statistics-window"><b>Statistics</b> window</a>.</li>
 </ol>
 
 #### <span style="color:#3C8000">Job Form</span>
