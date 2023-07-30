@@ -13,7 +13,7 @@ The user interface of the **Main** window, has the following elements:
 ---
 <ol>
 <li> <b>Dark/Light mode</b> button – toggle to switch between dark and light mode.</li>
-<li> <b>Sign in/out</b> button – select to <a href="../How-to/How-to-authenticate.md"><b>Sign in and out</b></a> of the app.</li>
+<li> <b>Sign in/out</b> button – select to <a href="../How-to/How-to-authenticate"><b>Sign in and out</b></a> of the app.</li>
 </ol>
 
 #### <span style="color:#3C8000">Navigation bar</span>
@@ -21,9 +21,9 @@ The user interface of the **Main** window, has the following elements:
 ---
 <ol start="3">
 <li> <b>List job offers</b> button – when blue, it indicates that the window is active.</li>
-<li> <b>Create job offer</b> button – select to go to the <a href="Create-job-offer-window.md"><b>Create job offer</b> window</a>.</li>
-<li> <b>Statistics</b> button – select to go to the <a href="Statistics-window.md"><b>Statistics</b> window</a>.</li>
-<li> <b>Display/hide filter bar</b> button – Select to display the <b>Filter</b> bar. Follow the <a href="../How-to/How-to-search-for-job-offers.md">link</a> for more information on how to search for job offers.</li>
+<li> <b>Create job offer</b> button – select to go to the <a href="Create-job-offer-window"><b>Create job offer</b> window</a>.</li>
+<li> <b>Statistics</b> button – select to go to the <a href="Statistics-window"><b>Statistics</b> window</a>.</li>
+<li> <b>Display/hide filter bar</b> button – Select to display the <b>Filter</b> bar. Follow the <a href="../How-to/How-to-search-for-job-offers">link</a> for more information on how to search for job offers.</li>
 </ol>
 
 #### <span style="color:#3C8000">Jobs table</span>
@@ -35,7 +35,7 @@ The user interface of the **Main** window, has the following elements:
 <li> <i>Job titl</i>  field – it indicates the name of the job that is offered.</li>
 <li> <i>Date posted</i> field – it indicates when the job offer was posted.</li>
 <li> <i>Company</i>  field – it indicates the company offering the job.</li>
-<li> <i>Actions</i>  field – it allows you to <a href="../How-to/How-to-manage-a-job-offer.md"><b>Manage</b></a>, <a href="../How-to/How-to-recruit-candidates.md"><b>Recruit</b></a> or <a href="../How-to/How-to-archive-and-unarchive-a-job-offer.md"><b>Archive/Unarchive</b></a> the job offer by using the buttons.</li>
+<li> <i>Actions</i>  field – it allows you to <a href="../How-to/How-to-manage-a-job-offer"><b>Manage</b></a>, <a href="../How-to/How-to-recruit-candidates"><b>Recruit</b></a> or <a href="../How-to/How-to-archive-and-unarchive-a-job-offer"><b>Archive/Unarchive</b></a> the job offer by using the buttons.</li>
 </ol>
 
 #### <span style="color:#3C8000">Bottom bar</span>
