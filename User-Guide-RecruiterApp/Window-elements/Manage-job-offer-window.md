@@ -13,7 +13,7 @@ The user interface of the **Manage Job Offer** window, has the following element
 ---
 <ol>
 <li> <b>Dark/Light mode</b> button – toggle to switch between dark and light mode.</li>
-<li> <b>Sign in/out</b>  button – select to <a href="/../How-to/How-to-authenticate"><b>Sign in and out</b></a> of the App.</li>
+<li> <b>Sign in/out</b>  button – select to <a href="../How-to/How-to-authenticate"><b>Sign in and out</b></a> of the App.</li>
 </ol>
 
 #### <span style="color:#3C8000">Navigation bar</span>
